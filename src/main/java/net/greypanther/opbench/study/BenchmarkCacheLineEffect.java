@@ -1,4 +1,4 @@
-package net.greypanther.opbench.primitives;
+package net.greypanther.opbench.study;
 
 import java.util.Random;
 
